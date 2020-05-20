@@ -1,5 +1,5 @@
 # s0urce.io-Bot-Typer
-A Bot Typer for s0urce.io, that types words that have been seen before already. This is legit, and works perfectly fine, as this bot saves words that are correctly typed, and automatically re-types that word again for you when you come across it.
+A Bot Typer for s0urce.io, that types words that have been seen before already. This is legit, and works perfectly fine, as this bot saves words that are correctly typed, and automatically re-types that word again for you when you come across it. And for the retards (no offense) who think this is illegal, *IT'S NOT, SO HOLD YOUR THOUGHTS RIGHT THERE.*
 
 Hope You Enjoy!!!! ;D
 
