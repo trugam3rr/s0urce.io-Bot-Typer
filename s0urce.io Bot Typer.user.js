@@ -1,16 +1,21 @@
 // ==UserScript==
 // @name            s0urce.io Bot Typer
-// @namespace       https://greasyfork.org/scripts/403693-s0urce-io-bot-typer
+// @namespace       https://github.com/anonymous-kyb12/s0urce.io-Bot-Typer
 // @author          anonymous kyb
 // @include         http://s0urce.io/
-// @version         2
+// @include         http://ioground.com/play/s0urce-io
+// @include         http://unblockediogames.com/s0urce-io.html
+// @include         http://www.frivgamesunblocked.com/play/s0urceio.html
+// @version         3
 // @grant           GM_xmlhttpRequest
 // @grant           GM_getResourceText
 // @grant           GM_getValue
 // @grant           GM_setValue
 // @grant           unsafeWindow
+// @require         https://greasyfork.org/en/scripts/403693-s0urce-io-bot-typer
+// @require         https://github.com/anonymous-kyb12/s0urce.io-Bot-Typer
 // @description     This script uses a bot to store words that it has already seen you type correctly, then it re-inputs that word again when you stumble upon it. No need to go into the DevTools Console.
-// @icon            https://tse1.mm.bing.net/th?id=OIP.MlO6Z0XCp6sL5d9XsXYVEQAAAA&pid=Api
+// @icon            file:///home/chronos/u-0365984e5f288b56a185a3447d2f892789c43e64/MyFiles/Downloads/Chromebook%20Stuff/Pics-Videos-GIFs/Pics/s0urce.png
 // ==/UserScript==
 
 /*
